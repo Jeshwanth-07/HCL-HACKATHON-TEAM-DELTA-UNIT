@@ -1,0 +1,101 @@
+order_id,customer_id,product_id,quantity,unit_price,total_price,order_date,shipping_address,payment_method,order_status
+1,10,22,96,753.23,6391.18,6/3/2021,76943 Hovde Way,Credit Card,Pending
+2,21,22,82,931.68,4615.05,5/20/2020,45 Maple Wood Circle,Cash,Delivered
+3,9,4,56,332.09,4889.19,7/16/2021,96708 Kim Park,PayPal,Shipped
+4,9,9,52,251.81,2220.66,10/4/2022,846 Darwin Crossing,Cash,Delivered
+5,10,10,15,9.57,7218.1,7/25/2020,9538 Veith Trail,PayPal,Delivered
+6,23,,74,727.55,3945.34,6/3/2020,31208 West Crossing,Credit Card,Pending
+7,20,22,58,582.88,1972.67,9/13/2022,9755 Larry Alley,Cash,Pending
+8,6,19,9,730.41,3372.09,2/14/2021,291 Loeprich Way,PayPal,Shipped
+9,13,5,44,570.3,1510.85,9/1/2021,3 Schurz Avenue,Credit Card,Pending
+10,18,23,61,749.31,3031.97,5/3/2020,20 Sachtjen Plaza,PayPal,Pending
+11,11,23,8,595.24,8597.9,3/2/2021,7960 Lawn Way,PayPal,Pending
+12,11,10,13,915.38,1304.63,5/31/2020,1214 Nevada Crossing,Cash,Delivered
+13,19,7,65,762.81,8995.96,8/27/2022,010 Sycamore Point,PayPal,Delivered
+14,2,16,62,926.44,521.39,7/12/2020,9 Hayes Terrace,PayPal,Delivered
+15,15,4,29,680.58,1971.8,8/18/2021,0 Rutledge Court,PayPal,Delivered
+16,20,,71,85.47,6022.96,4/30/2022,9804 Forest Dale Avenue,Cash,Shipped
+17,16,,53,882.21,9700.74,11/23/2021,1 Hooker Way,PayPal,Pending
+18,24,7,44,601.61,6932.1,8/7/2022,806 Delaware Plaza,PayPal,Shipped
+19,19,25,77,741.57,4602.86,7/3/2020,99709 Monument Center,Credit Card,Shipped
+20,20,5,97,878.02,830.78,7/10/2021,9 Mcguire Plaza,Cash,Pending
+21,25,12,87,481.67,5589.15,11/7/2021,4052 Corry Parkway,Cash,Delivered
+22,6,17,1,499.05,808.02,12/20/2021,1 Blaine Park,Credit Card,Shipped
+23,23,5,9,217.63,7071.78,2/19/2022,27144 Cottonwood Street,Credit Card,Shipped
+24,11,15,64,64.0,1895.38,9/1/2020,52870 Sherman Hill,PayPal,Shipped
+25,20,,95,522.96,2637.81,11/12/2021,33 Laurel Avenue,Cash,Delivered
+26,21,24,78,501.7,7172.61,2/19/2021,56802 Delaware Center,Credit Card,Pending
+27,10,24,22,243.36,9217.24,10/3/2021,16518 Debs Lane,PayPal,Delivered
+28,6,19,98,392.87,9996.08,8/18/2021,3 Mosinee Lane,Cash,Pending
+29,22,15,63,107.64,5312.63,11/5/2021,2309 Glendale Plaza,Credit Card,Delivered
+30,7,22,70,754.79,3036.74,10/6/2020,47 Kings Way,PayPal,Pending
+31,20,16,22,922.64,9109.41,10/20/2020,31 Green Hill,Credit Card,Shipped
+32,4,8,67,549.8,7208.26,10/21/2021,58 Carberry Hill,Cash,Pending
+33,21,17,4,266.01,6218.99,9/7/2020,57 Stuart Park,PayPal,Shipped
+34,15,3,3,952.46,3191.2,3/19/2022,921 Express Crossing,Cash,Delivered
+35,24,24,20,231.64,4996.54,11/8/2020,1069 Surrey Circle,Credit Card,Shipped
+36,16,18,24,724.1,1946.48,4/18/2020,507 Manufacturers Avenue,Cash,Delivered
+37,18,22,59,885.83,516.32,7/8/2021,0219 Dayton Way,Credit Card,Shipped
+38,11,15,80,138.59,3220.86,5/4/2021,7680 Alpine Place,Cash,Shipped
+39,10,11,31,481.52,2297.15,11/14/2022,9963 Oneill Drive,Credit Card,Delivered
+40,11,3,6,998.26,3670.58,10/12/2020,2 Moland Street,Cash,Delivered
+41,8,22,29,653.78,9433.12,7/30/2021,2 Stephen Court,PayPal,Shipped
+42,15,20,87,35.45,5022.33,1/11/2020,4771 Meadow Ridge Alley,PayPal,Pending
+43,23,21,93,148.54,1849.2,2/7/2021,46069 Esch Plaza,Credit Card,Shipped
+44,1,6,54,529.67,8976.51,4/9/2020,44 Hanson Lane,Cash,Delivered
+45,,25,72,586.52,7359.79,3/4/2021,16874 Burrows Pass,PayPal,Shipped
+46,,10,36,939.55,2309.36,8/4/2022,8076 Carpenter Trail,Credit Card,Shipped
+47,17,19,24,249.54,8203.35,3/22/2021,857 Talmadge Crossing,Cash,Shipped
+48,10,17,5,629.35,6471.73,11/17/2020,4641 Merchant Parkway,Credit Card,Delivered
+49,9,13,85,883.03,1268.89,1/30/2020,27828 Fallview Alley,Credit Card,Delivered
+50,1,23,98,428.37,6051.01,11/27/2022,06124 Memorial Pass,Cash,Delivered
+51,5,17,79,132.6,7557.85,8/7/2020,205 Larry Drive,Cash,Shipped
+52,6,22,58,948.77,2775.51,9/18/2021,3 Kinsman Parkway,Cash,Pending
+53,10,4,55,60.83,4625.81,12/30/2022,0388 Kensington Junction,Cash,Pending
+54,16,8,3,191.79,3637.07,8/9/2021,1 Gateway Place,PayPal,Shipped
+55,1,4,94,946.16,4513.99,5/17/2020,28111 Graedel Pass,Cash,Delivered
+56,10,1,50,473.14,7542.24,11/9/2021,2 Milwaukee Place,Cash,Pending
+57,11,9,33,937.7,8538.12,11/26/2020,8636 Beilfuss Street,Credit Card,Pending
+58,11,1,35,197.34,6443.96,2/10/2022,4 Chinook Crossing,Cash,Pending
+59,14,21,83,942.25,2652.65,7/14/2021,70 Ridge Oak Road,Credit Card,Shipped
+60,7,8,87,511.38,875.62,11/5/2022,3000 Raven Lane,PayPal,Delivered
+61,20,12,79,508.74,5516.53,2/19/2021,5 Mayfield Terrace,Credit Card,Shipped
+62,9,19,19,5.99,7771.58,4/15/2021,26 Spaight Hill,PayPal,Shipped
+63,13,,67,943.53,8919.5,6/7/2020,252 Maple Center,PayPal,Shipped
+64,19,2,71,740.38,4388.68,6/5/2022,6 Hermina Trail,Cash,Shipped
+65,25,21,34,666.21,681.91,3/12/2022,6 Dovetail Pass,PayPal,Pending
+66,10,20,49,550.29,6050.03,10/19/2021,627 Rieder Parkway,PayPal,Shipped
+67,17,13,86,410.22,9948.2,1/8/2022,1446 Mayer Hill,Cash,Delivered
+68,12,5,59,681.9,9166.56,8/1/2021,68204 Coleman Junction,Credit Card,Shipped
+69,1,23,3,762.51,9828.47,7/3/2021,9845 Lighthouse Bay Trail,Credit Card,Pending
+70,9,19,6,805.62,6037.8,10/20/2021,517 Schlimgen Parkway,Credit Card,Shipped
+71,20,16,9,726.1,5565.16,9/28/2021,4 Vidon Pass,Credit Card,Delivered
+72,1,3,55,178.94,1898.27,8/30/2022,614 Schurz Lane,PayPal,Pending
+73,21,16,37,113.98,5597.86,8/26/2021,5249 Sommers Court,PayPal,Delivered
+74,21,24,37,747.02,848.96,1/13/2021,14574 Muir Junction,PayPal,Shipped
+75,7,1,80,151.51,918.87,12/4/2021,4 Merry Point,Cash,Shipped
+76,12,25,31,191.22,7746.22,10/15/2020,4 Annamark Lane,PayPal,Delivered
+77,18,22,22,659.71,9556.03,12/19/2021,25094 Vernon Junction,Cash,Delivered
+78,22,14,23,190.44,4021.49,1/27/2020,4757 Gulseth Road,Cash,Delivered
+79,25,24,4,404.87,2356.73,6/1/2022,4699 Lyons Avenue,Credit Card,Pending
+80,20,21,91,868.19,9080.14,4/28/2022,542 Pepper Wood Trail,Credit Card,Pending
+81,5,4,57,194.75,6019.35,5/16/2021,67 Maple Drive,Cash,Delivered
+82,14,13,62,962.14,5361.33,11/21/2020,04184 Ohio Parkway,Cash,Delivered
+83,6,22,24,733.13,851.19,2/21/2022,7 Darwin Court,Credit Card,Pending
+84,5,4,31,253.79,3035.8,2/19/2020,6 Northwestern Lane,Credit Card,Delivered
+85,21,,17,35.11,7922.65,8/13/2021,52 Schiller Point,PayPal,Shipped
+86,,22,85,560.27,3699.6,4/10/2022,3 Miller Terrace,PayPal,Shipped
+87,2,20,62,219.19,1581.72,5/24/2021,892 Haas Street,PayPal,Pending
+88,1,,74,894.36,8615.81,12/5/2020,4973 Jenna Alley,Credit Card,Shipped
+89,23,22,43,895.9,8183.9,12/8/2022,98 Independence Lane,Cash,Shipped
+90,1,2,88,635.7,7132.52,5/26/2020,68 Sycamore Pass,Credit Card,Delivered
+91,14,14,43,278.17,3078.75,9/11/2022,0541 Surrey Place,Credit Card,Pending
+92,2,2,63,823.84,453.2,11/2/2021,459 Nelson Junction,Cash,Shipped
+93,4,16,64,551.74,8532.74,1/23/2022,2986 Stang Pass,PayPal,Shipped
+94,6,14,31,20.59,2434.57,4/27/2021,759 Lukken Place,PayPal,Pending
+95,18,13,51,294.61,8990.77,10/26/2021,5 Banding Drive,Cash,Pending
+96,,23,51,868.38,520.43,8/28/2020,40310 Fair Oaks Court,Credit Card,Delivered
+97,16,7,78,602.56,7635.94,10/12/2021,05 Garrison Avenue,Cash,Delivered
+98,19,22,30,86.32,3027.27,12/30/2021,4 Starling Terrace,Credit Card,Shipped
+99,23,12,71,67.19,2311.04,2/17/2022,6 Sunfield Drive,PayPal,Pending
+100,16,23,83,586.13,2088.87,4/1/2021,1749 Rutledge Road,Cash,Shipped
